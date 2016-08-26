@@ -1,0 +1,6 @@
+{
+  "runtime": {
+      "majorVersion": "8"
+  },
+  "command": "sh ./WILDFLY_RELEASE/bin/standalone.sh -b=0.0.0.0 -Djboss.http.port=$PORT"
+}
